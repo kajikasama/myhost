@@ -1,0 +1,273 @@
+  
+# *Start About
+# Support Indonesian Net Neutrality
+# Project home page: https://unblockhostid.github.io
+# Hosts listed by gvoze32
+#
+# *Start Rules
+# UNBLOCKHOSTID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
+# Anda harus wajib berusia minimal 18 tahun keatas untuk bisa menggunakan aplikasi ini. 
+# Kami tidak bertanggung jawab apabila fitur ini disalahgunakan. Apabila Anda menyalahgunakan fitur ini, maka Anda siap untuk menanggung segala konsekuensi yang ditimbulkan dari penggunaan aplikasi ini.
+# Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuhan, termasuk dosa, kami serahkan sepenuhnya kepada Anda. Kami tidak bertanggung jawab. Menggunakan aplikasi ini berarti sepenuhnya menanggung semua akibat yang ditimbulkan.
+#
+# *Start Sample
+# Copyright (c) 1993-2009 Microsoft Corp.
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+#	space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# *Start UNBLOCKHOSTID
+#	====================================\
+
+#	[OPENLOAD.CO]
+104.16.166.50 openload.co www.openload.co
+104.16.165.50	t1.openload.co
+104.16.164.50	tt1.openload.co
+104.16.164.50	api.openload.co
+104.16.164.50	support.openload.co
+
+104.26.11.39 danbooru.donmai.us
+104.26.11.39 safebooru.donmai.us
+104.26.11.39 cdn.donmai.us
+104.26.11.39 blog.168.am
+
+
+
+#	[REDDIT.COM]
+151.101.129.140	reddit.com
+151.101.129.140	www.reddit.com
+151.101.1.140	np.reddit.com
+151.101.1.140	bt.reddit.com
+151.101.1.140	m.reddit.com
+151.101.1.140	nm.reddit.com
+151.101.1.140	api.reddit.com
+151.101.1.140	e.reddit.com
+151.101.1.140	about.reddit.com
+151.101.1.140	st.reddit.com
+151.101.1.140	ssl.reddit.com
+151.101.1.140	oauth.reddit.com
+151.101.1.140	out.reddit.com
+151.101.1.140	origin.reddit.com
+151.101.1.140	old.reddit.com
+151.101.1.140	sendbird.reddit.com
+151.101.1.140	new.reddit.com
+151.101.1.140	gateway.reddit.com
+151.101.1.140	events.reddit.com
+52.44.97.90	alb.reddit.com
+151.101.129.140	en.reddit.com
+151.101.129.140	en-us.reddit.com
+151.101.129.140	test.reddit.com
+151.101.129.140	nsfw.reddit.com
+151.101.129.140	pay.reddit.com
+151.101.129.140	ww.reddit.com
+151.101.129.140	blog.reddit.com
+151.101.129.140	4x.reddit.com
+151.101.1.140	chat.reddit.com
+151.101.201.140	mod.reddit.com
+151.101.201.140	accounts.reddit.com
+151.101.53.140 v.redd.it s.reddit.com external-preview.redd.it
+151.101.189.140	preview.redd.it
+151.101.69.140	styles.redditmedia.com
+151.101.41.140	gql.reddit.com
+151.101.1.140	buttons.reddit.com
+151.101.1.140	amp.reddit.com
+151.101.1.140	rapi.reddit.com
+151.101.1.140	digg.comold.reddit.com
+151.101.1.140	fn.reddit.com
+151.101.1.140	cdn.reddit.com
+151.101.1.140	digg.comwww.reddit.com
+151.101.1.140	xa.reddit.com
+151.101.1.140	xr.reddit.com
+151.101.1.140	line.reddit.com
+151.101.1.140	imagur.reddit.com
+151.101.1.140	strapi.reddit.com
+151.101.1.140	d.reddit.com
+151.101.1.140	meta-api.reddit.com
+151.101.1.140	ads.reddit.com
+151.101.1.140	bettertouchtool.reddit.com
+151.101.1.140	pixel.reddit.com
+151.101.1.140	v21.reddit.com
+151.101.1.140	diaperedhentai.reddit.com
+151.101.1.140	abdl.reddit.com
+151.101.1.140	as.reddit.com
+151.101.1.140	i.reddit.com
+151.101.1.140	beta.reddit.com
+151.101.1.140	pepetraders.reddit.com
+151.101.1.140	so.reddit.com
+151.101.1.140	ps.reddit.com
+151.101.1.140	thumbs.reddit.com
+151.101.1.140	2fwww.reddit.com
+151.101.1.140	sp.reddit.com
+151.101.1.140	ex.reddit.com
+151.101.1.140	no.reddit.com
+151.101.1.140	h.reddit.com
+151.101.1.140	bitfinex.reddit.com
+3.208.46.58	rhs.reddit.com
+151.101.1.140	effectai.reddit.com
+151.101.1.140	toqqn.reddit.com
+151.101.1.140	pectiv.reddit.com
+151.101.1.140	dc.reddit.com
+151.101.1.140	ud.reddit.com
+151.101.1.140	security.reddit.com
+151.101.1.140	acer.reddit.com
+151.101.1.140	cc.reddit.com
+151.101.1.140	gg.reddit.com
+151.101.1.140	se.reddit.com
+151.101.1.140	habs.reddit.com
+151.101.1.140	ma.reddit.com
+151.101.1.140	eo.reddit.com
+151.101.1.140	loid.reddit.com
+151.101.1.140	es.reddit.com
+151.101.1.140	cx.reddit.com
+151.101.1.140	2fout.reddit.com
+151.101.1.140	ro.reddit.com
+151.101.1.140	news.reddit.com
+151.101.1.140	nl.reddit.com
+151.101.1.140	ol.reddit.com
+151.101.1.140	dd.reddit.com
+151.101.1.140	yogscast.reddit.com
+151.101.1.140	jwww.reddit.com
+151.101.1.140	ja.reddit.com
+151.101.1.140	tr.reddit.com
+151.101.1.140	code.reddit.com
+151.101.1.140	static.reddit.com
+151.101.1.140	2fold.reddit.com
+151.101.1.140	de.reddit.com
+151.101.1.140	initref.reddit.com
+151.101.1.140	auth.reddit.com
+151.101.1.140	22www.reddit.com
+151.101.1.140	v2.reddit.com
+151.101.1.140	dreams.reddit.com
+151.101.1.140	srs.reddit.com
+151.101.1.140	rseor3.reddit.com
+151.101.1.140	edgebucket.reddit.com
+151.101.1.140	token.reddit.com
+151.101.1.140	rabt.reddit.com
+151.101.1.140	pt.reddit.com
+151.101.1.140	sf.reddit.com
+151.101.1.140	us.reddit.com
+151.101.1.140	fr.reddit.com
+151.101.1.140	252fwww.reddit.com
+
+
+104.24.111.82	javfinder.sh
+
+#	[VIMEO.COM]
+151.101.130.109	i.vimeocdn.com
+151.101.64.217	developer.vimeo.com
+151.101.64.217	www.vimeo.com
+151.101.64.217	vimeo.com
+151.101.66.109	f.vimeocdn.com
+184.50.168.24	secure-c.vimeocdn.com
+151.101.64.217	player.vimeo.com
+198.245.92.39	click.email.vimeo.com
+104.156.85.217	api.vimeo.com
+80.239.137.98	a.vimeocdn.com
+151.101.17.133	fpdl.vimeocdn.com
+104.156.81.217	help.vimeo.com
+104.156.81.217	app.vimeo.com
+
+#	[THEPIRATEBAY.ORG]
+104.27.216.28	thepiratebay.org
+
+#	[HITOMI.LA]
+185.145.131.184 hitomi.la www.hitomi.la
+23.237.36.202	a.hitomi.la
+23.237.36.202	aa.hitomi.la
+192.240.120.10	atn.hitomi.la
+192.240.120.10	ba.hitomi.la
+192.240.120.10	btn.hitomi.la
+23.237.36.202	la.hitomi.la
+192.240.120.10	ltn.hitomi.la
+23.237.36.202	streaming.hitomi.la
+192.240.120.10	tn.hitomi.la
+23.237.36.202	g.hitomi.la
+23.237.36.202	i.hitomi.la
+192.240.120.10	hf2.hitomi.la
+
+#	[NHENTAI.NET]
+141.101.120.55 nhentai.net www.nhentai.net
+141.101.120.54	static.nhentai.net
+185.165.243.200	t.nhentai.net
+185.165.243.201	i.nhentai.net
+185.165.243.200	webseed.nhentai.net
+
+#	[GELBOORU.COM]
+67.202.114.141 gelbooru.com www.gelbooru.com
+212.8.240.5 img2.gelbooru.com simg3.gelbooru.com
+
+#	[OMEGLE.COM]
+104.23.128.76	omegle.com
+104.23.128.76	www.omegle.com
+
+#	[RARBG.TO]
+185.37.100.122	rarbg.to
+
+#	[EZTV.AG]
+104.27.208.30	eztv.ag
+
+#	[ISOHUNT.TO]
+104.23.204.30	isohunt.to
+
+#	[4CHAN.ORG]
+104.16.117.221	4chan.org
+104.16.117.221	www.4chan.org
+104.16.116.221	boards.4chan.org
+104.16.116.221	img.4chan.org
+104.16.118.221	rs.4chan.org
+104.16.119.221	orz.4chan.org
+104.16.116.221	static.4chan.org
+104.16.116.221	img.4chan.org
+104.16.116.221	cgi.4chan.org
+104.16.117.221	dis.4chan.org
+104.16.118.221	sys.4chan.org
+104.16.62.249	4cdn.org
+104.16.62.249	a.4cdn.org
+104.16.58.249	i.4cdn.org
+104.16.60.249	s.4cdn.org
+104.16.62.249	t.4cdn.org
+144.217.123.248	is3.4chan.org
+142.44.218.139	is2.4chan.org
+
+#	[HENTAIHAVEN.ORG]
+192.124.249.11 hentaihaven.org www.hentaihaven.org
+
+#	[PORNHUB.COM]
+31.192.120.36 pornhub.com www.pornhub.com
+
+#	[TBIB.ORG]
+104.31.90.62	tbib.org
+
+#	[XHAMSTER.COM]
+88.208.18.30 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
+88.208.31.1 xhcdn.com video.xhcdn.com
+
+#	[JAVFOR.ME]
+104.25.219.15	javfor.me
+104.25.219.15	cdn.hdporn4.me
+
+#	[JAVFIND.COM]
+104.24.125.127	javfind.com
+
+#	[BEJAV.NET]
+104.28.4.81	bejav.net
+
+#	[AKIBA-ONLINE.COM]
+89.248.169.70 akiba-online.com www.akiba-online.com
+
